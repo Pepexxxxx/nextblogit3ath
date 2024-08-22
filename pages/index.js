@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
       <hr></hr>
-        <p alignment="center">
+        <p align="center">
           <em>Hi, I'm a 3rd-year student at the University of the Assumption, studying BS in Information Technology.</em></p>
         <p>
 
@@ -53,7 +53,7 @@ export default function Home() {
 
 
 
-        <hr></hr>
+      <hr></hr>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
